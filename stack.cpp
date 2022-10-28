@@ -1,3 +1,3 @@
 absrnyzm
 hjm hc
-hibil,c
+return 0;
